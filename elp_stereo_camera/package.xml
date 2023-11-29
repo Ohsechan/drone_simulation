@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<package>
+  <name>elp_stereo_camera</name>
+  <version>1.0.0</version>
+  <description>A ROS driver for the ELP Dual Lens stereo camera.</description>
+
+  <maintainer email="josh@javconcepts.com">Josh Villbrandt</maintainer>
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>usb_cam</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>usb_cam</run_depend>
+</package>

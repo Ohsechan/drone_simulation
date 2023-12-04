@@ -2,7 +2,7 @@
 ## 1-1. 프로젝트 소개
 2022 한이음 ICT 멘토링에서 진행한 프로젝트입니다. 사람의 조종 없이 드론이 자율적으로 순찰 업무를 하는 것을 목표로 진행되었으며, 시뮬레이션부터 실제 드론 제작까지 진행하였습니다.
 ## 1-2. 개발환경
-- Raspbian
+- Uubntu 20.04 Desktop(Companion Conputer), Raspbian(Raspberry pi)
 - DroneKit-Python
 - QGroundControl
 

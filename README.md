@@ -5,7 +5,9 @@
 - QGroundControl
 
 ## 시스템 구성
+### 전체 시스템 구성도
 ![소프트웨어구성도](https://github.com/Ohsechan/drone_simulation/assets/77317210/530e9bbc-483d-4738-9102-db29c10285c8)
+### 드론 시스템 구성도
 ![하드웨어구성도](https://github.com/Ohsechan/drone_simulation/assets/77317210/01c5e36f-8835-4298-a602-d463e152c4fb)
 
 ## 작품 사진

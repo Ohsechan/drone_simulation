@@ -1,5 +1,7 @@
 # 1. 프로젝트 설명
-## 1-1. 개발환경
+## 1-1. 프로젝트 소개
+본 프로젝트는 2022 한이음 ICT 멘토링에서 진행한 프로젝트입니다.
+## 1-2. 개발환경
 - Ubuntu 20.04 Desktop
 - DroneKit-Python
 - QGroundControl

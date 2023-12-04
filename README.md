@@ -7,7 +7,7 @@
 ## 시스템 구성
 ### 전체 시스템 구성도
 ![소프트웨어구성도](https://github.com/Ohsechan/drone_simulation/assets/77317210/530e9bbc-483d-4738-9102-db29c10285c8)
-### 드론 시스템 구성도
+### 드론 하드웨어 구성도
 ![하드웨어구성도](https://github.com/Ohsechan/drone_simulation/assets/77317210/01c5e36f-8835-4298-a602-d463e152c4fb)
 
 ## 작품 사진
@@ -15,3 +15,6 @@
 
 # 데모영상
 [![라이다 부착 드론의 Gazebo 시뮬레이션](http://img.youtube.com/vi/cxtyFOeOEIA/0.jpg)](https://youtu.be/cxtyFOeOEIA?t=0s)
+[![QGroundControl과 Gazebo를 연동한 드론 시뮬레이션](http://img.youtube.com/vi/HqqoCc5cAiY/0.jpg)](https://youtu.be/HqqoCc5cAiY?t=0s)
+[![실제 환경에서 드론 시동 테스트 1](http://img.youtube.com/vi/iGWLFeSuKdA/0.jpg)](https://youtu.be/iGWLFeSuKdA?t=0s)
+[![실제 환경에서 드론 시동 테스트 2](http://img.youtube.com/vi/5YYP9gdn1ro/0.jpg)](https://youtu.be/5YYP9gdn1ro?t=0s)

@@ -9,7 +9,7 @@
 # 2. 프로젝트 구현
 ## 2-1. 데모 영상
 [![youtube playlist](http://img.youtube.com/vi/cxtyFOeOEIA/0.jpg)](https://www.youtube.com/playlist?list=PLx5EbqT-6Y08l8PY4zFMs6eGUk2vD3sHl)
-## 2-2. 전체 시스템 구성도
-![전체 시스템 다이어그램](https://github.com/Ohsechan/drone_simulation/assets/77317210/5d429c61-0c5c-4d76-87e2-5da997e8f3e2)
-## 2-3. 작품 사진
+## 2-2. 작품 사진
 ![드론사진](https://github.com/Ohsechan/drone_simulation/assets/77317210/947a104b-cb65-4ee6-8728-23a7c6e22b8d)
+## 2-3. 전체 시스템 구성도
+![전체 시스템 다이어그램](https://github.com/Ohsechan/drone_simulation/assets/77317210/5d429c61-0c5c-4d76-87e2-5da997e8f3e2)

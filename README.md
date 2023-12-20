@@ -10,8 +10,6 @@
 ## 2-1. 데모 영상
 [![youtube playlist](http://img.youtube.com/vi/cxtyFOeOEIA/0.jpg)](https://www.youtube.com/playlist?list=PLx5EbqT-6Y08l8PY4zFMs6eGUk2vD3sHl)
 ## 2-2. 전체 시스템 구성도
-![소프트웨어구성도](https://github.com/Ohsechan/drone_simulation/assets/77317210/530e9bbc-483d-4738-9102-db29c10285c8)
-## 2-3. 드론 하드웨어 구성도
-![하드웨어구성도](https://github.com/Ohsechan/drone_simulation/assets/77317210/01c5e36f-8835-4298-a602-d463e152c4fb)
-## 2-4. 작품 사진
+![전체 시스템 다이어그램](https://github.com/Ohsechan/drone_simulation/assets/77317210/5d429c61-0c5c-4d76-87e2-5da997e8f3e2)
+## 2-3. 작품 사진
 ![드론사진](https://github.com/Ohsechan/drone_simulation/assets/77317210/947a104b-cb65-4ee6-8728-23a7c6e22b8d)
